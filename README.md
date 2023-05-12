@@ -90,5 +90,5 @@ This application leverages [Cypress](https://docs.cypress.io/guides/overview/why
 
 
 #### Unit Testing
-This application uses [Jest]()
+This application leverages [Jest](https://jestjs.io/docs/getting-started) for unit testing.  
 
