@@ -85,5 +85,10 @@ pnpm dev
 
 ## Testing
 
-(TBD)
+#### End to End Testing
+This application leverages [Cypress](https://docs.cypress.io/guides/overview/why-cypress) to provide full end to end (E2E) testing capabilities. 
+
+
+#### Unit Testing
+This application uses [Jest]()
 
